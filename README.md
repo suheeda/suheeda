@@ -79,7 +79,7 @@
 
 ### 📫 Connect With Me
 
-- 💼LinkedIn: linkedin.com/in/suheeda-s-f-21bb45331/
+- 💼LinkedIn:https://linkedin.com/in/suheeda-s-f-21bb45331/
 - 💻 GitHub: https://github.com/suheeda
 - 📧 Email: suheedasf10@gmail.com
 ---
