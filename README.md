@@ -1,13 +1,87 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Suheeda SF</h1>
+<h3 align="center">Python Developer | Data Science & Machine Learning Enthusiast | Immediate Joiner</h3>
 
-I'm Suheeda, an aspiring Python Developer passionate about Data Science and Machine Learning.  
-I enjoy building real-world projects using Python, Flask, and working with databases like SQL and MongoDB.
+---
 
-🌱 Currently learning: Data Science, Machine Learning & Advanced Python  
-💻 Tech Stack: Python, Flask, Pandas, NumPy, Scikit-learn, SQL, MongoDB  
-🚀 Interested in: AI, ML, Web Development & Data-driven applications  
-🤝 Open to: Entry-level Python / Data Science opportunities  
-📫 Reach me at: suheedasf10@gmail.com  
+### 👩‍💻 About Me
 
-I love turning ideas into practical applications and continuously improving my skills through hands-on projects.
+- 💻 Passionate Python Developer focused on building real-world applications  
+- 🌱 Currently advancing in **Data Science & Machine Learning**  
+- 🔍 Interested in AI, Data Analytics & Backend Development  
+- 🚀 Actively seeking Entry-Level Python / Data Science opportunities  
+- ⚡ Immediate Joiner  
 
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+- 🐍 Python  
+- 🌐 Flask  
+- ⚛️ React  
+- 🎨 Tailwind CSS  
+- 📄 HTML, CSS, JavaScript  
+
+**Data & ML**
+- 📊 Pandas  
+- 🔢 NumPy  
+- 🤖 Scikit-learn  
+- 🧠 NLTK  
+- 💬 TextBlob  
+
+**Databases & Tools**
+- 🗄️ SQL  
+- 🍃 MongoDB  
+- 📈 Matplotlib  
+- 📊 Seaborn  
+- 📉 Plotly  
+- 🚀 Streamlit  
+
+---
+
+### 🚀 Projects
+
+#### 🏥 Health Risk Predictor App  
+**Tech Stack:** Python, Streamlit, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
+- Developed a health risk classification application using ML models.  
+- Implemented data preprocessing and feature handling using Pandas & NumPy.  
+- Integrated Matplotlib & Seaborn for health trend visualizations.  
+- Enabled users to identify potential health risks through data-driven insights.  
+
+---
+
+#### 📰 News Analyzer Dashboard  
+**Tech Stack:** Python, Streamlit, NewsAPI, NLTK, TextBlob, Pandas, Plotly  
+- Built an interactive dashboard to analyze and visualize real-time news data.  
+- Implemented sentiment analysis using NLTK & TextBlob.  
+- Processed fetched news data for structured analytical insights.  
+- Created a dynamic Streamlit interface to display trends and sentiment results.  
+
+---
+
+#### 🎵 Fav Media Web Application  
+**Tech Stack:** HTML, CSS, JavaScript, Backend  
+- Developed a private web application managing 300+ curated songs and movies.  
+- Designed structured categorization for efficient media management.  
+- Implemented dynamic frontend interactions.  
+- Built backend logic for media storage and retrieval.  
+
+---
+
+#### 🧙 Bounty Wizard – Web Application  
+**Tech Stack:** React, Vite, Tailwind CSS, React Router  
+- Developed a 3-step wizard application with structured validation.  
+- Implemented state persistence using React Context API.  
+- Generated structured JSON payload for backend-ready submission.  
+- Built responsive multi-step UI with smooth navigation.  
+
+---
+
+### 📫 Connect With Me
+
+- 💼LinkedIn: linkedin.com/in/suheeda-s-f-21bb45331
+- 💻 GitHub: https://github.com/suheeda
+- 📧 Email: suheedasf10@gmail.com
+---
+
+⭐ I believe in building practical, user-focused applications and continuously improving through hands-on development.
