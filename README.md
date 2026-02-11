@@ -7,7 +7,7 @@ I enjoy building real-world projects using Python, Flask, and working with datab
 💻 Tech Stack: Python, Flask, Pandas, NumPy, Scikit-learn, SQL, MongoDB  
 🚀 Interested in: AI, ML, Web Development & Data-driven applications  
 🤝 Open to: Entry-level Python / Data Science opportunities  
-📫 Reach me at: your-email@example.com  
+📫 Reach me at: suheedasf10@gmail.com  
 
 I love turning ideas into practical applications and continuously improving my skills through hands-on projects.
 
